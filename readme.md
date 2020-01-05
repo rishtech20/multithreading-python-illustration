@@ -11,7 +11,7 @@ This is the companion repository to [The "What", "When" and "How" of Multithread
 $ git clone https://github.com/rishtech20/multithreading-python-illustration.git
 ```
 
-3. Go to the root of the directory:
+3. Go to the root of the directory created by git:
 
 ```Bash
 $ cd $directory_name
